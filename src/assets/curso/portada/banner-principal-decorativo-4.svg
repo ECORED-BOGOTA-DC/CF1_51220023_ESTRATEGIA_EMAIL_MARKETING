@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53.601" height="43.334" viewBox="0 0 53.601 43.334">
+  <g id="Grupo_1064198" data-name="Grupo 1064198" transform="translate(12378.844 12146.581)">
+    <path id="Trazado_796884" data-name="Trazado 796884" d="M75.179,1V29.667h9.668V42.333l15.18-12.666h26.752V1Z" transform="translate(-12453.023 -12146.581)" fill="#fff"/>
+    <path id="Trazado_796885" data-name="Trazado 796885" d="M84.847,43.334a1,1,0,0,1-1-1V30.667H75.18a1,1,0,0,1-1-1V1a1,1,0,0,1,1-1h51.6a1,1,0,0,1,1,1V29.667a1,1,0,0,1-1,1H100.39L85.488,43.1a1,1,0,0,1-.641.232M76.18,28.667h8.667a1,1,0,0,1,1,1V40.2l13.54-11.3a1,1,0,0,1,.641-.232H125.78V2H76.18Z" transform="translate(-12453.023 -12146.581)" fill="#ffc401"/>
+    <line id="Línea_1600" data-name="Línea 1600" x2="36.071" transform="translate(-12370.079 -12136.914)" fill="#fff"/>
+    <path id="Trazado_796886" data-name="Trazado 796886" d="M119.015,10.667H82.944a1,1,0,0,1,0-2h36.071a1,1,0,1,1,0,2" transform="translate(-12453.023 -12146.581)" fill="#ffc401"/>
+    <line id="Línea_1601" data-name="Línea 1601" x2="22.149" transform="translate(-12370.079 -12130.861)" fill="#fff"/>
+    <path id="Trazado_796887" data-name="Trazado 796887" d="M105.093,16.72H82.944a1,1,0,1,1,0-2h22.149a1,1,0,1,1,0,2" transform="translate(-12453.023 -12146.581)" fill="#ffc401"/>
+  </g>
+</svg>
