@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Las pymes digitales**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-bogota-dc.github.io/CF1_51220023_ESTRATEGIA_EMAIL_MARKETING/#/](https://ecored-bogota-dc.github.io/CF1_51220023_ESTRATEGIA_EMAIL_MARKETING/#/)
 
 #
 
