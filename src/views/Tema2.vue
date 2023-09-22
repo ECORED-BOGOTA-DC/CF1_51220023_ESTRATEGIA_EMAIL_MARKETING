@@ -140,6 +140,100 @@
     p.mt-5(data-aos="fade-right") Uno de los aspectos más importantes para acertar en la solución de una problemática es generar una lluvia de ideas y seleccionar las mejores de ellas. En la selección se debe tener experiencia y experticia para escoger la mejor alternativa de solución a la problemática existente.
     p.mt-4(datta-aos="fade-left") Un buen análisis de problemas contiene:
 
+    .row.mt-5
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
+        figure.col-8.col-md-6.col-lg-12.m-auto
+          img(src="@/assets/curso/tema2/8.svg")
+      .col-lg-8(data-aos="fade-left")
+        .tarjeta.tarjeta--azul.p-4.p-lg-5(style="background-color:#DFF7C2;")
+          SlyderA(tipo="b")
+            .row
+              .col-md-6.mb-4.mb-md-0
+                p.fw-bold Conocimiento del problema, donde se debe identificar completamente la situación actual y proponer diferentes alternativas de solución.
+              .col-md-6
+                figure.col-8.m-auto
+                  img(src='@/assets/curso/tema2/9.png')
+            .row
+              .col-md-6.mb-4.mb-md-0
+                p.fw-bold Identificar las causas y efectos del problema anteriormente mencionado. 
+              .col-md-6
+                figure.col-8.m-auto
+                  img(src='@/assets/curso/tema2/10.png')
+            .row
+              .col-md-6.mb-4.mb-md-0
+                p.fw-bold Seleccionar los medios que se van a utilizar para solución del problema.
+              .col-md-6
+                figure.col-8.m-auto
+                  img(src='@/assets/curso/tema2/11.png')
+            .row
+              .col-md-6.mb-4.mb-md-0
+                p.fw-bold Establecer alternativas de solución y seleccionar la mejor de todas (tiempo, alcance medios utilizados, etc.).
+              .col-md-6
+                figure.col-8.m-auto
+                  img(src='@/assets/curso/tema2/12.png')
+    
+    br
+    .mt-5.p-3.mb-4(style="max-width:fit-content;background-color:#94E435;border-radius:0px 60px 60px 0px;position:relative;" data-aos="fade-right")
+      div(style="width:50px;height:12px;background-color:#FF3E72;border-radius:60px;position:absolute;top:-5px;")
+      div(style="width:15px;height:15px;background-color:#FFC401;border-radius:100%;position:absolute;top:-12px;left:40px;")
+      div(style="width:40px;height:10px;background-color:#0050DB;border-radius:60px;position:absolute;bottom:-3px;right:30px;")
+      h4.mb-0.pe-4.ps-3 Análisis de involucrados
+
+    p(data-aos="fade-left") En el marco del proceso de pre-inversión del proyecto, específicamente en su etapa de identificación, es importante realizar el estudio de los diferentes stakeholders directos o indirectos, que pueden verse afectados por la operación del proyecto. Estas personas son conocidas como actores del proyecto, y se estima que generen sus opiniones o experiencias de percepción.
+    p.mt-4(data-aos="fade-right") El análisis de involucrados según la Cepal implica:
+
+    .row.mt-5
+      .col-lg.mb-4.mb-lg-0(data-aos="zoom-in-up")
+        .h-100.cont_hover_1.p-4(style="background-color:#B2E5FF;border-radius:15px;")
+          figure
+            img(src="@/assets/curso/tema2/13.svg" style="max-width:100px;")
+          p.mt-4.fw-bold Identificación
+          p.mt-3 Reconocer a los involucrados con interés directo o indirecto.
+      .col-lg.mb-4.mb-lg-0(data-aos="zoom-in-up")
+        .h-100.cont_hover_1.p-4(style="background-color:#B2E5FF;border-radius:15px;")
+          figure
+            img(src="@/assets/curso/tema2/14.svg" style="max-width:100px;")
+          p.mt-4.fw-bold Investigación
+          p.mt-3 Indagar los intereses, capacidad, roles, influencia, poder, entre otros.
+      .col-lg.mb-4.mb-lg-0(data-aos="zoom-in-up")
+        .h-100.cont_hover_1.p-4(style="background-color:#B2E5FF;border-radius:15px;")
+          figure
+            img(src="@/assets/curso/tema2/15.svg" style="max-width:100px;")
+          p.mt-4.fw-bold Interpretación
+          p.mt-3 Comprender los resultados de la investigación y definir la forma en que van a formar parte del proyecto.
+
+    br
+    .mt-5.p-3.mb-4(style="max-width:fit-content;background-color:#94E435;border-radius:0px 60px 60px 0px;position:relative;" data-aos="fade-right")
+      div(style="width:50px;height:12px;background-color:#FF3E72;border-radius:60px;position:absolute;top:-5px;")
+      div(style="width:15px;height:15px;background-color:#FFC401;border-radius:100%;position:absolute;top:-12px;left:40px;")
+      div(style="width:40px;height:10px;background-color:#0050DB;border-radius:60px;position:absolute;bottom:-3px;right:30px;")
+      h4.mb-0.pe-4.ps-3 Análisis de problemas
+    
+    p(data-aos="fade-left") Un proyecto inicia con la identificación de un problema y culmina con la identificación de alternativas de solución. Es muy común que al identificar problemas estos se plantean como la falta o la ausencia de su solución. Por ejemplo, afirmaciones como la falta de crédito, la falta de repuestos, la falta de infraestructura, entre otros, dejan sin análisis otras causas que motivan el problema y proponen una solución única como: contar con créditos, adquirir repuestos y construir infraestructura, que no permiten analizar alternativas más eficientes y eficaces o simplemente dejan sin solución el problema. Estas prácticas tienden a inducir malas decisiones de inversión (Cepal, Ilpes, 2005, p. 10).
+
+    .row.mt-5.p-4(style="background-color:#EFFBE1;")
+      .col-lg-8.mb-4.mb-md-0.col-md-6(data-aos="fade-right" style="place-self:center;")
+        p.fw-bold Para realizar una buena identificación de los problemas, es necesario:
+        ul.lista-ul.mt-4.mb-0
+          li.mb-3.d-flex
+            i.fas.fa-circle(style="color:#00A9FF;")
+            div
+             p #[strong Origen:] el inicio de las ideas de proyectos que puedan generar distintos campos de aplicación de las políticas de desarrollo.
+          li.mb-3.d-flex
+            i.fas.fa-circle(style="color:#00A9FF;")
+            div
+             p #[strong Problema versus proyecto:] se refiere al uso eficiente de recursos, con los proyectos de inversión se generan problemas y dan respuesta de forma racional.
+          li.mb-0.d-flex
+            i.fas.fa-circle(style="color:#00A9FF;")
+            div
+             p.mb-0 #[strong Buena evaluación versus un buen proyecto:] un proyecto debe evaluarse tanto al comienzo (evaluación ex ante), como al final (evaluación ex post), que permita determinar el impacto o el resultado, para lo cual debe estar bien identificado y bien formulado.
+      .col-lg-4.col-md-6(data-aos="fade-left" style="place-self:center;")
+        figure.col-8.m-auto.col-md-12
+          img(src="@/assets/curso/tema2/16.svg")
+    
+
+
+
 
 
 
@@ -213,4 +307,15 @@ export default {
   z-index: 2
   background-color: #ffffff
   transform: rotate(26deg)
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #FFC401
+.slyder-a__bullets__item
+  background-color: #EAE57E
+.slyder-a__bullets__item--active
+  background-color: #FFC401 !important
+  border-color: #FFC401
+.cont_hover_1
+  transition: .4s all ease-in-out
+.cont_hover_1:hover
+  background-color: #00A9FF !important
 </style>
