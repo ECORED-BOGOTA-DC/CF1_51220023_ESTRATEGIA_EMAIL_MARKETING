@@ -58,6 +58,80 @@
       h2#t_4_2 4.2 Tipos de publicidad digital
     
     p(data-aos="fade-left") Existen dos tipos de publicidad digital más conocidos, aunque con la continua evolución de las tecnologías han ido apareciendo otros que vienen evolucionando:
+
+    .col-xl-10.m-auto.mt-5
+      .row
+        .col-lg.mb-4.mb-lg-0
+          .h-100.p-4.p-md-5(style="background-color:#CCEEFF;border-radius:20px;" data-aos="fade-right")
+            figure.col-8.m-auto.col-md-12
+              img(src="@/assets/curso/tema4/4.png")
+            h5.mt-3 Medios pagos
+            p.mt-3.mb-0 Son las plataformas que requieren de un pago su aparición en diversos medios sociales. Por ejemplo: links, anuncios o publicidad en RRSS. 
+        .col-lg.mb-4.mb-lg-0
+          .h-100.p-4.p-md-5(style="background-color:#CCEEFF;border-radius:20px;" data-aos="fade-left")
+            figure.col-8.m-auto.col-md-12
+              img(src="@/assets/curso/tema4/5.png")
+            h5.mt-3 Medios orgánicos
+            p.mt-3.mb-0 Son las estrategias que logran ser eficientes de manera gratuita, entre ellas encontramos el email marketing o creación de contenidos de calidad.
+    
+    p.mt-5(data-aos="fade-right") En la siguiente figura 2 se aprecian otros tipos de publicidad:
+
+    .titulo-sexto.color-acento-contenido.mt-5(data-aos="fade-left")
+      h5 Figura 2.
+      span Tipos de publicidad digital
+    
+    .row.mt-5
+      .col-lg-6.col-xl-3.mb-4.mb-xl-0
+        .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false" data-aos="zoom-in-up")
+          .tarjeta-flip__contenedor
+            .tarjeta-flip__img.p-4.d-flex.align-content-center.flex-wrap
+              figure.col-lg-5.m-auto.col-md-6.col-lg-12
+                img(src="@/assets/curso/tema4/6.svg")
+              h5.mt-4.text-center.w-100.mb-0(style="color:#12263F;") SEM
+            .tarjeta-flip__contenido.p-4.p-xl-5(style="background-color:#B2E5FF;")
+              figure
+                img(src="@/assets/curso/tema4/7.svg" style="max-width:70px;")
+              h5.mt-4(style="color:#12263F;") SEM
+              p.mt-3.mb-0(style="color:#12263F;") Enfocado a necesidades #[br] Inversión media #[br] La Keyword marca el precio #[br] Pago por CPC #[br] Compra por subasta
+      .col-lg-6.col-xl-3.mb-4.mb-xl-0
+        .tarjeta.tarjeta-flip.color-acento-contenido(@mouseover="indicadorTarjetaFlip = false" data-aos="zoom-in-up")
+          .indicador--hover(v-if="indicadorTarjetaFlip")
+          .tarjeta-flip__contenedor
+            .tarjeta-flip__img.p-4.d-flex.align-content-center.flex-wrap
+              figure.col-lg-5.m-auto.col-md-6.col-lg-12
+                img(src="@/assets/curso/tema4/8.svg")
+              h5.mt-4.text-center.w-100.mb-0(style="color:#12263F;") SOCIAL ADS
+            .tarjeta-flip__contenido.p-4.p-xl-5(style="background-color:#CCE4AF;")
+              figure
+                img(src="@/assets/curso/tema4/9.svg" style="max-width:70px;")
+              h5.mt-4(style="color:#12263F;") SOCIAL ADS
+              p.mt-3.mb-0(style="color:#12263F;") Enfocado a deseos #[br] Poca inversión #[br] La audiencia marca el precio #[br] Pago por CPC / CPM #[br] compra por subasta
+      .col-lg-6.col-xl-3.mb-4.mb-xl-0
+        .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false" data-aos="zoom-in-up")
+          .tarjeta-flip__contenedor
+            .tarjeta-flip__img.p-4.d-flex.align-content-center.flex-wrap
+              figure.col-lg-5.m-auto.col-md-6.col-lg-12
+                img(src="@/assets/curso/tema4/10.svg")
+              h5.mt-4.text-center.w-100.mb-0.text-white(style="color:#12263F;") RTB
+            .tarjeta-flip__contenido.p-4.p-xl-5(style="background-color:#9FB7E1;")
+              figure
+                img(src="@/assets/curso/tema4/11.svg" style="max-width:70px;")
+              h5.mt-4(style="color:#12263F;") RTB
+              p.mt-3.mb-0(style="color:#12263F;") Deseos / Branding #[br] Inversión alta #[br] La audiencia marca el precio #[br] Pago por cpm #[br] Compra por subasta
+      .col-lg-6.col-xl-3.mb-4.mb-xl-0
+        .tarjeta.tarjeta-flip.color-acento-botones(@mouseover="indicadorTarjetaFlip = false" data-aos="zoom-in-up")
+          .tarjeta-flip__contenedor
+            .tarjeta-flip__img.p-4.d-flex.align-content-center.flex-wrap
+              figure.col-lg-5.m-auto.col-md-6.col-lg-12
+                img(src="@/assets/curso/tema4/12.svg")
+              h5.mt-4.text-center.w-100.mb-0(style="color:#12263F;") DISPLAY
+            .tarjeta-flip__contenido.p-4.p-xl-5(style="background-color:#ECDA9F;")
+              figure
+                img(src="@/assets/curso/tema4/13.svg" style="max-width:70px;")
+              h5.mt-4(style="color:#12263F;") DISPLAY
+              p.mt-3.mb-0(style="color:#12263F;") Enfocado a branding #[BR] Inversión alta #[BR] El medio marca el precio #[BR] Pago por CPM #[BR] Compra directa
+    
+    figcaption.mt-3.fw-normal(style="background-color:#F6F6F6;" data-aos="fade-right") Nota, Cicero (2017).
     
     
 
@@ -73,7 +147,7 @@ export default {
   name: 'Tema4',
   components: {},
   data: () => ({
-    // variables de vue
+    indicadorTarjetaFlip: true,
   }),
   mounted() {
     this.$nextTick(() => {
