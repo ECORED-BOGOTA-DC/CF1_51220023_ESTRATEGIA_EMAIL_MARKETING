@@ -92,7 +92,7 @@
             figure.text-center
               img(src="@/assets/curso/tema5/8.svg" style="display:inline;max-width:80px;")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-            h4.mb-0.text-white Marketing digital
+            h4.mb-0.text-white #[em.text-white Marketing] digital
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=fmneZiWgtEU" target="_blank")
               span Enlace web
@@ -146,7 +146,7 @@
     Separador
 
     .titulo-segundo(data-aos="zoom-in-right")
-      h3#t_5_4 5.4 Marketing #[em mix] digital
+      h3#t_5_4 5.4 #[em Marketing mix] digital
 
     p(data-aos="fade-right") Su objetivo es analizar el comportamiento de los consumidores y mercados que generan acciones en búsqueda de la retención y fidelización de clientes. El #[em marketing mix] es un concepto que define las variables y herramientas a disposición del gestor de mercadeo, y consiste en la adaptación del producto, junto con su precio, mercado, divulgación y promoción en el contexto digital.
 

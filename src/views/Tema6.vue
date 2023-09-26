@@ -110,7 +110,7 @@
         p.mt-4 En los modelos B2B se considerarán las motivaciones y objeciones de los distintos perfiles del target o público objetivo, al igual que se hacía en el modelo de enfocado a cliente o B2C. A diferencia del #[em marketing] dirigido a clientes en el que se trabaja con un público objetivo conformado normalmente por una persona, que es la que busca el producto, decide acerca de la compra y lo consume, en este tipo de #[em marketing] se encuentran más perfiles asociados al proceso de compra.
     
     p.mt-5(data-aos="fade-right") Al tratarse de relaciones entre empresas conformadas por varias personas, se pueden encontrar diferentes perfiles o personas participando en un mismo proceso de compra, como lo son, por ejemplo, la persona que busca el producto, la persona que decide sobre la compra y la persona que al final hace uso del producto.
-    p.mt-4(data-aos="fade-left") Fue Philip Kotler, quien dentro de su libro #[strong “Dirección de Marketing”] publicado en 1999, habló de los roles del proceso de compra. Varios de estos roles pueden coincidir en la misma persona. 
+    p.mt-4(data-aos="fade-left") Fue Philip Kotler, quien dentro de su libro #[strong “Dirección de #[em Marketing]”] publicado en 1999, habló de los roles del proceso de compra. Varios de estos roles pueden coincidir en la misma persona. 
     p.mt-4(data-aos="fade-right") Según Kotler, se puede encontrar los siguientes roles o perfiles dentro del proceso de compra llevado a cabo por las empresas:
 
     .row.mt-5

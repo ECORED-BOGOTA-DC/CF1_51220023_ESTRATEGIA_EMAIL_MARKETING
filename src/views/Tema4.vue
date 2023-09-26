@@ -72,7 +72,7 @@
             figure.col-8.m-auto.col-md-12
               img(src="@/assets/curso/tema4/5.png")
             h5.mt-3 Medios orgánicos
-            p.mt-3.mb-0 Son las estrategias que logran ser eficientes de manera gratuita, entre ellas encontramos el email #[em marketing] o creación de contenidos de calidad.
+            p.mt-3.mb-0 Son las estrategias que logran ser eficientes de manera gratuita, entre ellas encontramos el #[em email marketing] o creación de contenidos de calidad.
     
     p.mt-5(data-aos="fade-right") En la siguiente figura 2 se aprecian otros tipos de publicidad:
 
