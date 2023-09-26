@@ -89,7 +89,7 @@
         figure.col-8.col-md-12.m-auto
           img(src="@/assets/curso/tema2/5.png")
       .col-lg-8.col-md-6(data-aos="fade-left" style="place-self:center;")
-        p Para implementar planeación en un negocio electrónico, se debe tener en cuenta la metodología y/o modelo a implementar, es decir el paso a paso para que su proceso comercial sea rentable. Por ello es importante tener claridad en estos conceptos. 
+        p Para implementar planeación en un negocio electrónico, se debe tener en cuenta la metodología y/o modelo a implementar, es decir, el paso a paso para que su proceso comercial sea rentable. Por ello es importante tener claridad en estos conceptos. 
         p.mt-4 Las metodologías de planificación se definen como las acciones o actividades que son necesarias para el cumplimiento de uno o varios objetivos, en un tiempo determinado. 
         p.mt-4 Una de las metodologías más utilizadas, es la Metodología de Marco Lógico MML.
     
@@ -167,7 +167,7 @@
                   img(src='@/assets/curso/tema2/11.png')
             .row
               .col-md-6.mb-4.mb-md-0
-                p.fw-bold Establecer alternativas de solución y seleccionar la mejor de todas (tiempo, alcance medios utilizados, etc.).
+                p.fw-bold Establecer alternativas de solución y seleccionar la mejor de todas (tiempo, alcance, medios utilizados, etc.).
               .col-md-6
                 figure.col-8.m-auto
                   img(src='@/assets/curso/tema2/12.png')
@@ -179,7 +179,7 @@
       div(style="width:40px;height:10px;background-color:#0050DB;border-radius:60px;position:absolute;bottom:-3px;right:30px;")
       h4.mb-0.pe-4.ps-3 Análisis de involucrados
 
-    p(data-aos="fade-left") En el marco del proceso de pre-inversión del proyecto, específicamente en su etapa de identificación, es importante realizar el estudio de los diferentes stakeholders directos o indirectos, que pueden verse afectados por la operación del proyecto. Estas personas son conocidas como actores del proyecto, y se estima que generen sus opiniones o experiencias de percepción.
+    p(data-aos="fade-left") En el marco del proceso de preinversión del proyecto, específicamente en su etapa de identificación, es importante realizar el estudio de los diferentes #[em stakeholders] directos o indirectos, que pueden verse afectados por la operación del proyecto. Estas personas son conocidas como actores del proyecto, y se estima que generen sus opiniones o experiencias de percepción.
     p.mt-4(data-aos="fade-right") El análisis de involucrados según la Cepal implica:
 
     .row.mt-5

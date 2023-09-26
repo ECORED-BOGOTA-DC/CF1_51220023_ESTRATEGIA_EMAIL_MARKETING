@@ -7,7 +7,7 @@
         span 6
       h1 El consumidor digital
     
-    p(data-aos="fade-right") Para la Pymes, el protagonista principal y en quién está enfocada toda la propuesta comercial, es el “consumidor digital”; es por ello, que para permitir que existan negocios digitales, se debe asegurar que los productos tengan clientes digitales, como a continuación se explica: 
+    p(data-aos="fade-right") Para la pyme, el protagonista principal y en quién está enfocada toda la propuesta comercial, es el “consumidor digital”; es por ello, que para permitir que existan negocios digitales, se debe asegurar que los productos tengan clientes digitales, como a continuación se explica: 
 
     figure.mt-5(data-aos="fade-left")
       .video
@@ -27,7 +27,7 @@
           img(src="@/assets/curso/tema6/1.png")
     
     p.mt-5(data-aos="fade-right") En este proceso de cambio hacia un nuevo perfil de cliente digital, hace que conocerlo, monitorizarlo, establecer los canales, mensajes y lenguaje adecuado sea parte del foco que se pone sobre éste, al igual que la personalización de campañas, ofertas y productos.
-    p.mt-4(data-aos="fade-left") No obstante, a día de hoy se sabe que los clientes digitales en la actualidad y que han surgido como consecuencia de la transformación tecnológica comparten las siguientes características (ver tabla 1):
+    p.mt-4(data-aos="fade-left") No obstante, a día de hoy se sabe que los clientes digitales en la actualidad y que han surgido como consecuencia de la transformación tecnológica comparten las siguientes características (ver tabla 2):
 
     .titulo-sexto.color-acento-contenido.mt-5(data-aos="fade-right")
       h5 Tabla 2.
@@ -39,17 +39,17 @@
           caption.mt-0.fw-normal(style="background-color:#F6F6F6;") #[strong Nota,] Sena (2022).
           thead(style="border:0;")
             tr
-              th(colspan="2" style="background-color:#94E435;") CLIENTE DIGITAL
+              th(colspan="2" style="background-color:#94E435;") Cliente digital
             tr(style="background-color:#0050DB;")
-              th.text-white.text-center CARACTERÍSTICA
-              th.text-white.text-center DESCRIPCIÓN
+              th.text-white.text-center Característica
+              th.text-white.text-center Descripción
           tbody
             tr
               td.p-4.fw-bold Tiene poder
-              td.p-4 El poder del cliente digital se lo debe a las grandes posibilidades que le ofrece el internet social: conversar, compartir y colaborar.
+              td.p-4 El poder del cliente digital se lo debe a las grandes posibilidades que le ofrece el Internet social: conversar, compartir y colaborar.
             tr
               td.p-4.fw-bold Está siempre conectado
-              td.p-4 El cliente digital llevó consigo un dispositivo conectado a internet. A través de las aplicaciones instaladas en el dispositivo está conectado desde cualquier lugar, y en cualquier momento.
+              td.p-4 El cliente digital llevó consigo un dispositivo conectado a Internet. A través de las aplicaciones instaladas en el dispositivo está conectado desde cualquier lugar, y en cualquier momento.
             tr
               td.p-4.fw-bold Ignora la publicidad
               td.p-4 El cliente se fía más de aquellas empresas o marcas que le dan fiabilidad y confianza, desconfiando de la publicidad. Este cliente demanda relaciones auténticas, directas y cercanas con las empresas.
@@ -80,7 +80,7 @@
     .titulo-segundo(data-aos="zoom-in-right")
       h2#t_6_2 6.2 Segmentación y arquetipos digitales
 
-    p(data-aos="fade-right") Cuando se trata de determinar el público objetivo, es decir, el perfil de a quién dirige sus campañas y estrategias promocionales, se debe tener en cuenta las características de las entidades a las que se pretende comunicar las promociones como son por ejemplo:
+    p(data-aos="fade-right") Cuando se trata de determinar el público objetivo, es decir, el perfil de a quién dirige sus campañas y estrategias promocionales, se debe tener en cuenta las características de las entidades a las que se pretende comunicar las promociones, como son por ejemplo:
 
     .row.mt-5
       .col-lg-4.mb-4.mb-md-0.col-md-6(data-aos="fade-right")
@@ -107,7 +107,7 @@
                 | Volumen de facturación.
           .col-lg-7.d-none.d-lg-block
             .h-100(style="background-color:#94E435;")
-        p.mt-4 En los modelos B2B se considerarán las motivaciones y objeciones de los distintos perfiles del target o público objetivo, al igual que se hacía en el modelo de enfocado a cliente o B2C. A diferencia del marketing dirigido a clientes en el que se trabaja con un público objetivo conformado normalmente por una persona, que es la que busca el producto, decide acerca de la compra y lo consume, en este tipo de marketing se encuentran más perfiles asociados al proceso de compra.
+        p.mt-4 En los modelos B2B se considerarán las motivaciones y objeciones de los distintos perfiles del target o público objetivo, al igual que se hacía en el modelo de enfocado a cliente o B2C. A diferencia del #[em marketing] dirigido a clientes en el que se trabaja con un público objetivo conformado normalmente por una persona, que es la que busca el producto, decide acerca de la compra y lo consume, en este tipo de #[em marketing] se encuentran más perfiles asociados al proceso de compra.
     
     p.mt-5(data-aos="fade-right") Al tratarse de relaciones entre empresas conformadas por varias personas, se pueden encontrar diferentes perfiles o personas participando en un mismo proceso de compra, como lo son, por ejemplo, la persona que busca el producto, la persona que decide sobre la compra y la persona que al final hace uso del producto.
     p.mt-4(data-aos="fade-left") Fue Philip Kotler, quien dentro de su libro #[strong “Dirección de Marketing”] publicado en 1999, habló de los roles del proceso de compra. Varios de estos roles pueden coincidir en la misma persona. 

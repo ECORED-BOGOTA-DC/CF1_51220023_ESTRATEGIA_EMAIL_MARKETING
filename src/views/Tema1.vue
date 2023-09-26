@@ -5,9 +5,9 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
-      h1 Contexto de internet y los negocios electrónicos
+      h1 Contexto de Internet y los negocios electrónicos
     
-    p(data-aos="fade-right") El siguiente video realiza una breve contextualización sobre la importancia del internet en los negocios electrónicos:
+    p(data-aos="fade-right") El siguiente video realiza una breve contextualización sobre la importancia del Internet en los negocios electrónicos:
 
     figure.mt-5(data-aos="fade-left")
       .video
@@ -16,7 +16,7 @@
     Separador
 
     .titulo-segundo(data-aos="zoom-in-right")
-      h2#t_1_1 1.1 Historia del internet
+      h2#t_1_1 1.1 Historia del Internet
     
     p(data-aos="fade-right") A continuación se puede ver una breve historia del Internet desde su origen: 
 
@@ -24,10 +24,10 @@
       LineaTiempoC.color-acento-contenido(text-small)
         .row.col-lg-10.m-auto(titulo="1958")
           .p-3.m-auto(style="max-width:fit-content;background-color:#9ADDFF;border-radius:10px;")
-            p.mb-0 Nace la empresa ARPA
+            p.mb-0 Nace la empresa ARPA.
         .row.col-lg-10.m-auto(titulo="1961")
           .p-3.m-auto(style="max-width:fit-content;background-color:#9ADDFF;border-radius:10px;")
-            p.mb-0 Nacen los primeros correos electrónicos
+            p.mb-0 Nacen los primeros correos electrónicos.
         .row.col-lg-10.m-auto(titulo="1967")
           .p-3.m-auto(style="max-width:fit-content;background-color:#9ADDFF;border-radius:10px;")
             p.mb-0 ARPA publicó un plan para crear una red de ordenadores denominada ARPANET.
@@ -63,7 +63,7 @@
             p.mb-0 Internet alcanza los 1.100.000.000 usuarios.
         .row.col-lg-10.m-auto(titulo="2010")
           .p-3.m-auto(style="max-width:fit-content;background-color:#9ADDFF;border-radius:10px;")
-            p.mb-0 Internet alcanza los 1,966.000.000 de usuarios de internet .
+            p.mb-0 Internet alcanza los 1,966.000.000 de usuarios de Internet.
         .row.col-lg-10.m-auto(titulo="Actualidad")
           .p-3.m-auto(style="max-width:fit-content;background-color:#9ADDFF;border-radius:10px;")
             p.mb-0 Sigue creciendo en usuarios.
@@ -71,12 +71,12 @@
     Separador
 
     .titulo-segundo(data-aos="zoom-in-right")
-      h2#t_1_2 1.2 Evolución del internet
+      h2#t_1_2 1.2 Evolución del Internet
     
     .row
       .col-lg-8.col-md-6.mb-4.mb-md-0(data-aos="fade-right" style="place-self:center;")
         p En esta sección se contextualizará sobre la evolución de Internet, incluyendo que esta representa el crecimiento y desarrollo a favor de la temática #[strong(style="color:#00A9FF;") “estrategias de comunicación para las pymes”.]
-        p.mt-4 A través del tiempo Internet ha evolucionado debido a los impulsos generados por los gobiernos, investigadores, educadores y personas en general, en búsqueda de satisfacer necesidades de diferente finalidad. Las políticas creadas por las entidades estatales han traído beneficios a la sociedad que incluye acceso a la información, rompiendo los límites de espacio y tiempo. El crecimiento acelerado de Internet ha repercutido en algunas crisis técnicas, como congestión, escasez de dominios, actividades ilegales, sobreexposición de información veraz y no veraz, discriminaciones digitales que se basan en nivel socioeconómico, educativo, raza, entre otros.
+        p.mt-4 A través del tiempo, Internet ha evolucionado debido a los impulsos generados por los gobiernos, investigadores, educadores y personas en general, en búsqueda de satisfacer necesidades de diferente finalidad. Las políticas creadas por las entidades estatales han traído beneficios a la sociedad que incluye acceso a la información, rompiendo los límites de espacio y tiempo. El crecimiento acelerado de Internet ha repercutido en algunas crisis técnicas, como congestión, escasez de dominios, actividades ilegales, sobreexposición de información veraz y no veraz, discriminaciones digitales que se basan en nivel socioeconómico, educativo, raza, entre otros.
         p.mt-4 Desde 1950 hasta hoy se ha incrementado constantemente el volumen de las redes de datos, así como los servicios que se ofrecen. 
       .col-lg-4.col-md-6(data-aos="fade-left" style="place-self:center;")
         figure.col-8.col-md-12.m-auto
@@ -95,7 +95,7 @@
                   | El diseño descentralizado y participativo, el cual ha permitido que personas de todo el mundo puedan evolucionar y fortalecer las capacidades de la red mundial.
                 li.mb-3.d-flex
                   i.fas.fa-check(style="color:#94E435;")
-                  | Al ser un sistema abierto y colaborativo su evolución es constante e inmediata. 
+                  | Al ser un sistema abierto y colaborativo, su evolución es constante e inmediata. 
                 li.mb-3.d-flex
                   i.fas.fa-check(style="color:#94E435;")
                   | Es una red accesible para todas las comunidades mundiales.
@@ -114,7 +114,7 @@
           img(src="@/assets/curso/tema1/2.png")
       .col-lg-8.col-md-6(data-aos="fade-left")
         p Una de las finalidades más importantes del Internet, es ser el canal por excelencia para realizar negocios electrónicos.
-        p.mt-4 Los negocios electrónicos (#[em E-business]) están basados en la integración de las TIC con las actividades de los negocios. Es decir, son estrategias empresariales integradas con las nuevas tecnologías para desarrollar cualquier modelo de negocio a través del internet, permitiendo mejorar su gestión y aumentar la productividad.
+        p.mt-4 Los negocios electrónicos (#[em E-business]) están basados en la integración de las TIC con las actividades de los negocios. Es decir, son estrategias empresariales integradas con las nuevas tecnologías para desarrollar cualquier modelo de negocio a través del Internet, permitiendo mejorar su gestión y aumentar la productividad.
         p.mt-4 Los negocios electrónicos dan un giro extremo a las formas tradicionales de comprar, como un efecto de la globalización y apertura internacional de los mercados. Esta nueva idea conecta las actividades económicas realizadas por Internet (comercialización o intercambio de productos o servicios).
     
     p.mt-5(data-aos="fade-right") En la siguiente tabla 1 se mencionan las ventajas y desventajas de la realización de negocios en Internet:
@@ -129,8 +129,8 @@
           caption.mt-0.fw-normal(style="background-color:#F6F6F6;") Nota, Sena (2022).
           thead(style="border:0;")
             tr(style="background-color:#0050DB;")
-              th.text-white.p-3 VENTAJAS
-              th.text-white.p-3 DESVENTAJAS
+              th.text-white.p-3 Ventajas
+              th.text-white.p-3 Desventajas
           tbody
             tr
               td.p-4 Los negocios electrónicos se realizan de manera inmediata o instantánea sin importar la ubicación de los negocios. 
@@ -154,7 +154,7 @@
               td.p-4  El idioma no es un inconveniente gracias a los soportes para esta intermediación. 
               td.p-4
     
-    p.mt-5(data-aos="fade-right") En Colombia existe una entidad que concentra información sobre los negocios electrónicos, la Cámara de Comercio Electrónico es una entidad privada sin ánimo de lucro, de orden gremial, que tiene como propósito promover y fortalecer la industria eCommerce en Colombia, a través del entendimiento y centralización de las cifras que determinan el comportamiento del comercio electrónico en el país, la incidencia en políticas públicas y la promoción del conocimiento y confianza en el sector.  En el siguiente enlace se puede consultar mayor información sobre esta entidad:
+    p.mt-5(data-aos="fade-right") En Colombia existe una entidad que concentra información sobre los negocios electrónicos, la Cámara de Comercio Electrónico es una entidad privada sin ánimo de lucro, de orden gremial, que tiene como propósito promover y fortalecer la industria #[em e-commerce] en Colombia, a través del entendimiento y centralización de las cifras que determinan el comportamiento del comercio electrónico en el país, la incidencia en políticas públicas y la promoción del conocimiento y confianza en el sector.  En el siguiente enlace se puede consultar mayor información sobre esta entidad:
 
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background: linear-gradient(180deg, rgba(0,169,255,1) 0%, rgba(0,80,219,1) 100%);border-radius:10px;")

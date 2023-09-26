@@ -10,8 +10,8 @@
             img(src="@/assets/template/opcion-multiple.svg", alt="Imagen decorativa")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Las PYMES Digitales
-        p.mb-4 Repasar conceptos relacionados con LAS PYMES DIGITALES para la definición de acciones a ejecutar por el aprendiz en su vida laboral.
+          h2 Las pymes digitales
+        p.mb-4 Repasar conceptos relacionados con las pymes digitales para la definición de acciones a ejecutar por el aprendiz en su vida laboral.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

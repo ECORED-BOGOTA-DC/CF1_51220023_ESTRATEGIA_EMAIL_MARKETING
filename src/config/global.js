@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Las pymes digitales',
     descripcionCurso:
-      'En este componente formativo el aprendiz apropiará los conocimientos relacionados con los inicios del internet hasta lo relacionado con la transformación del usuario en consumidor digital. A partir de este conocimiento, en su desempeño el aprendiz facilitará el uso de herramientas que permitan responder a los requerimientos de las instituciones y entidades público-privadas en el manejo de la comunicación digital.',
+      'En este componente formativo, el aprendiz apropiará los conocimientos relacionados con los inicios del Internet hasta lo relacionado con la transformación del usuario en consumidor digital. A partir de este conocimiento, en su desempeño el aprendiz facilitará el uso de herramientas que permitan responder a los requerimientos de las instituciones y entidades público-privadas en el manejo de la comunicación digital.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -44,17 +44,17 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Contexto de internet y los negocios electrónicos',
+        titulo: 'Contexto de Internet y los negocios electrónicos',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Historia del internet',
+            titulo: 'Historia del Internet',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo: 'Evolución del internet',
+            titulo: 'Evolución del Internet',
             hash: 't_1_2',
           },
           {
@@ -126,17 +126,17 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'El e-marketing en las pymes',
+        titulo: 'El <em>e-marketing</em> en las pymes',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '5.1',
-            titulo: 'Concepto de e-marketing',
+            titulo: 'Concepto de <em>e-marketing</em>',
             hash: 't_5_1',
           },
           {
             numero: '5.2',
-            titulo: 'Concepto de e-marketing',
+            titulo: 'Concepto de <em>e-marketing</em>',
             hash: 't_5_2',
           },
           {
@@ -257,7 +257,7 @@ export default {
     {
       termino: 'Negocios electrónicos',
       significado:
-        'los <em><strong>e-business</strong></em> están basados en la integración de las TIC con las actividades de los negocios. Es decir, son las estrategias empresariales integradas con las nuevas tecnologías para desarrollar cualquier modelo de negocio a través del internet, permitiendo mejorar su gestión y aumentar la productividad.',
+        'los <em><strong>e-business</strong></em> están basados en la integración de las TIC con las actividades de los negocios. Es decir, son las estrategias empresariales integradas con las nuevas tecnologías para desarrollar cualquier modelo de negocio a través del Internet, permitiendo mejorar su gestión y aumentar la productividad.',
     },
     {
       termino: 'Palabras clave (<em>Keywords</em>)',
@@ -299,8 +299,7 @@ export default {
     {
       referencia:
         'Coobis. (2017). <em>Contenidos digitales para arrasar en redes sociales</em>.',
-      link:
-        'Coobis. (2017). Contenidos digitales para arrasar en redes sociales.',
+      link: '',
     },
     {
       referencia:
@@ -357,7 +356,7 @@ export default {
       referencia:
         'Universidad de Guadalajara. (s.f.). <em>Resumen sobre Internet</em>.',
       link:
-        'https://biblioteca.udgvirtual.udg.mx/jspui/bitstream/123456789/3088/1/Resumen%20del%20Contenido%20de%20la%20Unidad.pdf',
+        'http://biblioteca.udgvirtual.udg.mx/jspui/bitstream/123456789/3088/1/Resumen%20del%20Contenido%20de%20la%20Unidad.pdf',
     },
     {
       referencia:

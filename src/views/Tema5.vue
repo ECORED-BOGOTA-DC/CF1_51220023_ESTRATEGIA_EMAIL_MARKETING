@@ -5,11 +5,11 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 5
-      h1 El e-marketing en las pymes
+      h1 El #[em e-marketing] en las pymes
     
     .row
       .col-lg-8.mb-4.mb-md-0.col-md-6(data-aos="fade-right" style="place-self:center;")
-        p Hoy en día la venta de productos y servicios han migrado a canales digitales, es por ellos que se denomina como e-marketing cuando esta oferta se encuentra en internet, a continuación, se contextualiza sobre esta importante tendencia comercial para las pymes:
+        p Hoy en día la venta de productos y servicios han migrado a canales digitales, es por ellos que se denomina como #[em e-marketing] cuando esta oferta se encuentra en Internet, a continuación, se contextualiza sobre esta importante tendencia comercial para las pymes:
         .p-4.mt-4(style="background-color:#D9F2FF;")
           ul.lista-ul.mb-0
             li.mb-3.d-flex
@@ -23,8 +23,8 @@
               | Puede resultar más económico y eficiente, un punto importante para las pymes, que no siempre cuentan con altos presupuestos.
             li.mb-0.d-flex
               i.fas.fa-check(style="color:#94E435;")
-              | Una pyme se puede dar a conocer sin importar su ubicación geográfica, ya que el e-marketing, rompe las barreras tradicionales de los límites físicos. 
-        p.mt-4 Para implementar el e-marketing, las pymes aplican estrategias básicas como crear su propio sitio web, campañas de mailing, posicionamiento SEO y SEM, marketing en RRSS, publicaciones en blogs, y contenidos visuales con el propósito de atraer usuarios o leads.
+              | Una pyme se puede dar a conocer sin importar su ubicación geográfica, ya que el #[em e-marketing], rompe las barreras tradicionales de los límites físicos. 
+        p.mt-4 Para implementar el #[em e-marketing], las pymes aplican estrategias básicas como crear su propio sitio web, campañas de mailing, posicionamiento SEO y SEM, #[em marketing] en RRSS, publicaciones en blogs, y contenidos visuales con el propósito de atraer usuarios o leads.
       .col-lg-4.col-md-6(data-aos="fade-left" style="place-self:center;")
         figure.col-8.m-auto.col-md-12
           img(src="@/assets/curso/tema5/1.png")
@@ -32,18 +32,18 @@
     Separador
 
     .titulo-segundo(data-aos="zoom-in-right")
-      h2#t_5_1 5.1 Concepto de e-marketing
+      h2#t_5_1 5.1 Concepto de #[em e-marketing]
     
     .col-xl-8.col-lg-10.m-auto.mt-5
       .bloque-texto-a.color-primario.p-4.p-md-5(data-aos="flip-up")
         .row.m-0.align-items-center.justify-content-between
           .col-lg-4.mb-4.mb-lg-0
-            h5.mb-0 ¿Qué es e-marketing?
+            h5.mb-0 ¿Qué es #[em e-marketing]?
           .col-lg-8
             .bloque-texto-a__texto.p-4
-              p.mb-0 Son las técnicas y estrategias a través de Internet, que buscan aumentar las ventas en las organizaciones. El objetivo principal es poder coordinar todos los principios del mercadeo tradicional, con todas las opciones que ofrece el internet y las nuevas tecnologías. 
+              p.mb-0 Son las técnicas y estrategias a través de Internet, que buscan aumentar las ventas en las organizaciones. El objetivo principal es poder coordinar todos los principios del mercadeo tradicional, con todas las opciones que ofrece el Internet y las nuevas tecnologías. 
     
-    p.mt-5(data-aose="fade-right") Algunas de las principales actividades del e-marketing son:
+    p.mt-5(data-aose="fade-right") Algunas de las principales actividades del #[em e-marketing] son:
 
     .row.mt-5
       .col-lg.mb-4.mb-lg-0.col-md-6
@@ -65,7 +65,7 @@
         .h-100.justify-content-center.p-3.pt-0.cont_figura_tema_5_1(data-aos="zoom-in-up")
           figure.text-center
             img(src="@/assets/curso/tema5/5.svg" style="max-width:90px;display:inline;")
-          p.fw-bold.text-center.mb-0.mt-1 Email marketing.
+          p.fw-bold.text-center.mb-0.mt-1 #[em Email marketing].
       .col-lg.mb-4.mb-lg-0.col-md-6
         .h-100.justify-content-center.p-3.pt-0.cont_figura_tema_5_1(data-aos="zoom-in-up")
           figure.text-center
@@ -80,10 +80,10 @@
     Separador
 
     .titulo-segundo(data-aos="zoom-in-right")
-      h2#t_5_2 5.2 El e-marketing en las empresas
+      h2#t_5_2 5.2 El #[em e-marketing] en las empresas
     
-    p(data-aos="fade-right") El e-marketing implica la creación de una estrategia que permite impactar con los mensajes y los productos al cliente correcto. Por tanto, el e-marketing contempla las herramientas y actividades de una organización a través de Internet, con el propósito de atraer nuevos clientes, mantener los actuales y desarrollar la identidad de marca. Las estrategias de e-marketing en las empresas suelen generar mayor valor agregado que las estrategias de marketing tradicional.
-    p.mt-4(data-aos="fade-left") En el siguiente video se mencionan algunas estrategias y finalidad del marketing digital:
+    p(data-aos="fade-right") El #[em e-marketing] implica la creación de una estrategia que permite impactar con los mensajes y los productos al cliente correcto. Por tanto, el #[em e-marketing] contempla las herramientas y actividades de una organización a través de Internet, con el propósito de atraer nuevos clientes, mantener los actuales y desarrollar la identidad de marca. Las estrategias de #[em e-marketing] en las empresas suelen generar mayor valor agregado que las estrategias de #[em marketing] tradicional.
+    p.mt-4(data-aos="fade-left") En el siguiente video se mencionan algunas estrategias y finalidad del #[em marketing] digital:
 
     .col-xl-8.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background: linear-gradient(180deg, rgba(0,169,255,1) 0%, rgba(0,80,219,1) 100%);border-radius:10px;")
@@ -146,9 +146,9 @@
     Separador
 
     .titulo-segundo(data-aos="zoom-in-right")
-      h3#t_5_4 5.4 Marketing MIX digital
+      h3#t_5_4 5.4 Marketing #[em mix] digital
 
-    p(data-aos="fade-right") Su objetivo es analizar el comportamiento de los consumidores y mercados que generan acciones en búsqueda de la retención y fidelización de clientes. El marketing mix es un concepto que define las variables y herramientas a disposición del gestor de mercadeo, y consiste en la adaptación del producto, junto con su precio, mercado, divulgación y promoción en el contexto digital.
+    p(data-aos="fade-right") Su objetivo es analizar el comportamiento de los consumidores y mercados que generan acciones en búsqueda de la retención y fidelización de clientes. El #[em marketing mix] es un concepto que define las variables y herramientas a disposición del gestor de mercadeo, y consiste en la adaptación del producto, junto con su precio, mercado, divulgación y promoción en el contexto digital.
 
     .col-xl-6.m-auto.mt-5.col-lg-8
       figure

@@ -18,7 +18,7 @@
             li.mb-3.d-flex
               i.fas.fa-circle(style="color:#00A9FF;")
               div
-                p #[strong Negocios nativos digitales], es decir nacen desde un principio como productos digitales.
+                p #[strong Negocios nativos digitales], es decir, nacen desde un principio como productos digitales.
             li.mb-0.d-flex
               i.fas.fa-circle(style="color:#00A9FF;")
               div
@@ -60,7 +60,7 @@
             | La competencia empresarial con las amenazas.
           li.mb-2.d-flex
             i.fas.fa-check(style="color:#94E435;")
-            | Los partners con los aliados.
+            div Los #[em partners] con los aliados.
           li.mb-0.d-flex
             i.fas.fa-check(style="color:#94E435;")
             | El mercado con un campo de batalla.
@@ -87,7 +87,7 @@
         p Hay que entender que los avances tecnológicos juegan para las empresas un papel fundamental para abordar con éxito la transformación digital. Desde el entendimiento de las nuevas tecnologías, y con su uso y aprovechamiento, las empresas podrán tener la oportunidad de sobrevivir en un entorno tan hostil y dinámico que representa este nuevo paradigma económico.
         .cajon.mt-3.color-acento-contenido.p-4(style="background-color:#EAFAD6;")
           p.mb-0 La transformación digital no hay que verla como una revolución, aunque en sí misma sí lo es. El objetivo de abordar desde las empresas la transformación digital es para que cualquier negocio pueda seguir realizando aquello que venía construyendo, pero de una manera más eficaz y eficiente, aportando más valor al cliente.
-        p.mt-4 Para el caso de las Pymes, puede existir el estigma que migrar de los tradicionales métodos básicos de realizar labores comerciales a implementar nuevas tecnologías para las ventas de los productos puede ser algo costoso y difícil, y por esta razón muchas pequeñas empresas desaparecieron en pandemia, debido a que en esta temporada, se tuvo que realizar el uso de herramientas digitales para poder llegar a los clientes. 
+        p.mt-4 Para el caso de las pymes, puede existir el estigma que migrar de los tradicionales métodos básicos de realizar labores comerciales a implementar nuevas tecnologías para las ventas de los productos puede ser algo costoso y difícil, y por esta razón muchas pequeñas empresas desaparecieron en pandemia, debido a que en esta temporada, se tuvo que realizar el uso de herramientas digitales para poder llegar a los clientes. 
       .col-lg-4.col-md-6(data-aos="fade-left" style="place-self:center;")
         figure.col-8.col-md-12.m-auto
           img(src="@/assets/curso/tema3/5.png")
