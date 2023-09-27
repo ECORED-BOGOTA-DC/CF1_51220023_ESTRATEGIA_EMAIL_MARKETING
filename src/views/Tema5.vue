@@ -23,7 +23,7 @@
               | Puede resultar más económico y eficiente, un punto importante para las pymes, que no siempre cuentan con altos presupuestos.
             li.mb-0.d-flex
               i.fas.fa-check(style="color:#94E435;")
-              | Una pyme se puede dar a conocer sin importar su ubicación geográfica, ya que el #[em e-marketing], rompe las barreras tradicionales de los límites físicos. 
+              div Una pyme se puede dar a conocer sin importar su ubicación geográfica, ya que el #[em e-marketing], rompe las barreras tradicionales de los límites físicos. 
         p.mt-4 Para implementar el #[em e-marketing], las pymes aplican estrategias básicas como crear su propio sitio web, campañas de mailing, posicionamiento SEO y SEM, #[em marketing] en RRSS, publicaciones en blogs, y contenidos visuales con el propósito de atraer usuarios o leads.
       .col-lg-4.col-md-6(data-aos="fade-left" style="place-self:center;")
         figure.col-8.m-auto.col-md-12

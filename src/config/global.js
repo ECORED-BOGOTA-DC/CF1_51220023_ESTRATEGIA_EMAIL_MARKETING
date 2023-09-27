@@ -113,7 +113,7 @@ export default {
         subMenu: [
           {
             numero: '4.1',
-            titulo: 'Concepto de Publicidad Digital',
+            titulo: 'Concepto de publicidad digital',
             hash: 't_4_1',
           },
           {
@@ -136,7 +136,7 @@ export default {
           },
           {
             numero: '5.2',
-            titulo: 'Concepto de <em>e-marketing</em>',
+            titulo: 'El <em>e-marketing</em> en las empresas',
             hash: 't_5_2',
           },
           {
