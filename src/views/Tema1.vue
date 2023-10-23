@@ -63,7 +63,7 @@
             p.mb-0 Internet alcanza los 1.100.000.000 usuarios.
         .row.col-lg-10.m-auto(titulo="2010")
           .p-3.m-auto(style="max-width:fit-content;background-color:#9ADDFF;border-radius:10px;")
-            p.mb-0 Internet alcanza los 1,966.000.000 de usuarios de Internet.
+            p.mb-0 Internet alcanza los 1.966.000.000 de usuarios de Internet.
         .row.col-lg-10.m-auto(titulo="Actualidad")
           .p-3.m-auto(style="max-width:fit-content;background-color:#9ADDFF;border-radius:10px;")
             p.mb-0 Sigue creciendo en usuarios.

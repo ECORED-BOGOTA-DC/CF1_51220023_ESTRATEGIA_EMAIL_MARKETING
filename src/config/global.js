@@ -339,24 +339,12 @@ export default {
     },
     {
       referencia:
-        'Pallares, A. (s.f.). Cómo debe usar las redes sociales una PyME.',
-      link:
-        'https://rampamarketingdigital.com/como-debe-usar-las-redes-sociales-una-pyme/',
-    },
-    {
-      referencia:
         'Rojo, M. (2019). <em>Blockchain: Fundamentos De La Cadena De Bloques</em>. Primera Edición. ed. De La U Ra-ma Editorial. Print. Área Finanzas.',
       link: '',
     },
     {
       referencia: 'Trello.com. (2022). <em>Crea tu cuenta</em>.',
       link: 'https://trello.com/signup',
-    },
-    {
-      referencia:
-        'Universidad de Guadalajara. (s.f.). <em>Resumen sobre Internet</em>.',
-      link:
-        'http://biblioteca.udgvirtual.udg.mx/jspui/bitstream/123456789/3088/1/Resumen%20del%20Contenido%20de%20la%20Unidad.pdf',
     },
     {
       referencia:
