@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/sintesis.svg", alt="Imagen que contiene la síntesis, la cual presenta de manera resumidas los temas abordados en componente formativo como lo es: los conceptos de planeación, metodología y modelos, la aplicación de publicidad digital, las diversas estrategias y actividades para segmentación y arquetipos, todo esto manejado dentro del contexto de los negocios electrónicos e internet.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

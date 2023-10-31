@@ -11,7 +11,7 @@
 
     figure.mt-5(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/YApKN-_vJB8" title="El consumidor digital" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     Separador
 
@@ -24,7 +24,7 @@
         p.mt-4 De esta forma, la gestión emocional del cliente hacia la marca y el #[em engagement] son factores indispensables a la hora de alcanzar y mantener la fidelización. Todo esto hace que las empresas cuenten con herramientas para anticiparse a las necesidades y gustos de los clientes, así lograr cumplir con las expectativas de calidad, tiempo y atención que se espera.
       .col-lg-4.col-md-6(data-aos="fade-left" style="place-self:center;")
         figure.col-8.m-auto.col-md-12
-          img(src="@/assets/curso/tema6/1.png")
+          img(src="@/assets/curso/tema6/1.png" alt="Imagen decorativa")
     
     p.mt-5(data-aos="fade-right") En este proceso de cambio hacia un nuevo perfil de cliente digital, hace que conocerlo, monitorizarlo, establecer los canales, mensajes y lenguaje adecuado sea parte del foco que se pone sobre éste, al igual que la personalización de campañas, ofertas y productos.
     p.mt-4(data-aos="fade-left") No obstante, a día de hoy se sabe que los clientes digitales en la actualidad y que han surgido como consecuencia de la transformación tecnológica comparten las siguientes características (ver tabla 2):
@@ -85,7 +85,7 @@
     .row.mt-5
       .col-lg-4.mb-4.mb-md-0.col-md-6(data-aos="fade-right")
         figure.col-8.m-auto.col-md-12
-          img(src="@/assets/curso/tema6/2.png")
+          img(src="@/assets/curso/tema6/2.png" alt="Imagen decorativa")
       .col-lg-8.col-md-6(data-aos="fade-left")
         .row
           .col-lg-5
@@ -130,13 +130,13 @@
             p.mb-0 Es quien hará uso y disfrute de los productos o servicios. Es decir será el usuario final quien consuma la compra.
       .col-lg-4(data-aos="fade-left" style="place-self:center;")
         figure.col-8.col-lg-12.col-md-6.m-auto
-          img(src="@/assets/curso/tema6/3.svg")
+          img(src="@/assets/curso/tema6/3.svg" alt="Imagen decorativa")
     
     p.mt-5(data-aos="fade-right") En la siguiente figura se puede apreciar los diferentes arquetipos:
 
     .col-xl-6.m-auto.mt-5.col-lg-8
       figure
-        img(src="@/assets/curso/tema6/4.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema6/4.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
 
 
 

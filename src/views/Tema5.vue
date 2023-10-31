@@ -27,7 +27,7 @@
         p.mt-4 Para implementar el #[em e-marketing], las pymes aplican estrategias básicas como crear su propio sitio web, campañas de mailing, posicionamiento SEO y SEM, #[em marketing] en RRSS, publicaciones en blogs, y contenidos visuales con el propósito de atraer usuarios o leads.
       .col-lg-4.col-md-6(data-aos="fade-left" style="place-self:center;")
         figure.col-8.m-auto.col-md-12
-          img(src="@/assets/curso/tema5/1.png")
+          img(src="@/assets/curso/tema5/1.png" alt="Imagen decorativa")
 
     Separador
 
@@ -49,32 +49,32 @@
       .col-lg.mb-4.mb-lg-0.col-md-6
         .h-100.justify-content-center.p-3.pt-0.cont_figura_tema_5_1(data-aos="zoom-in-up")
           figure.text-center
-            img(src="@/assets/curso/tema5/2.svg" style="max-width:90px;display:inline;")
+            img(src="@/assets/curso/tema5/2.svg" style="max-width:90px;display:inline;" alt="Imagen decorativa")
           p.fw-bold.text-center.mb-0.mt-1 SEO y SEM.
       .col-lg.mb-4.mb-lg-0.col-md-6
         .h-100.justify-content-center.p-3.pt-0.cont_figura_tema_5_1(data-aos="zoom-in-up")
           figure.text-center
-            img(src="@/assets/curso/tema5/3.svg" style="max-width:90px;display:inline;")
+            img(src="@/assets/curso/tema5/3.svg" style="max-width:90px;display:inline;" alt="Imagen decorativa")
           p.fw-bold.text-center.mb-0.mt-1 Medición y análisis de visitas.
       .col-lg.mb-4.mb-lg-0.col-md-6
         .h-100.justify-content-center.p-3.pt-0.cont_figura_tema_5_1(data-aos="zoom-in-up")
           figure.text-center
-            img(src="@/assets/curso/tema5/4.svg" style="max-width:90px;display:inline;")
+            img(src="@/assets/curso/tema5/4.svg" style="max-width:90px;display:inline;" alt="Imagen decorativa")
           p.fw-bold.text-center.mb-0.mt-1 Campañas publicidad.
       .col-lg.mb-4.mb-lg-0.col-md-6
         .h-100.justify-content-center.p-3.pt-0.cont_figura_tema_5_1(data-aos="zoom-in-up")
           figure.text-center
-            img(src="@/assets/curso/tema5/5.svg" style="max-width:90px;display:inline;")
+            img(src="@/assets/curso/tema5/5.svg" style="max-width:90px;display:inline;" alt="Imagen decorativa")
           p.fw-bold.text-center.mb-0.mt-1 #[em Email marketing].
       .col-lg.mb-4.mb-lg-0.col-md-6
         .h-100.justify-content-center.p-3.pt-0.cont_figura_tema_5_1(data-aos="zoom-in-up")
           figure.text-center
-            img(src="@/assets/curso/tema5/6.svg" style="max-width:90px;display:inline;")
+            img(src="@/assets/curso/tema5/6.svg" style="max-width:90px;display:inline;" alt="Imagen decorativa")
           p.fw-bold.text-center.mb-0.mt-1 RRSS.
       .col-lg.mb-4.mb-lg-0.col-md-6
         .h-100.justify-content-center.p-3.pt-0.cont_figura_tema_5_1(data-aos="zoom-in-up")
           figure.text-center
-            img(src="@/assets/curso/tema5/7.svg" style="max-width:90px;display:inline;")
+            img(src="@/assets/curso/tema5/7.svg" style="max-width:90px;display:inline;" alt="Imagen decorativa")
           p.fw-bold.text-center.mb-0.mt-1 Diseño de páginas web y blogs.
     
     Separador
@@ -90,7 +90,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema5/8.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema5/8.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4.mb-0.text-white #[em.text-white Marketing] digital
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
@@ -103,7 +103,7 @@
     .row.mt-4
       .col-lg-4.col-md-6.mb-4.mb-md-0(style="place-self:center;" data-aos="fade-right")
         figure.col-8.col-md-12.m-auto
-          img(src="@/assets/curso/tema5/9.png")
+          img(src="@/assets/curso/tema5/9.png" alt="Imagen decorativa")
       .col-lg-8.col-md-6(data-aos="fade-left" style="place-self:center;")
         ul.lista-ul.mb-0
           li.mb-2.d-flex
@@ -135,7 +135,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema5/8.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema5/8.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4.mb-0.text-white Impacto de las TIC en las Pyme
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
@@ -152,7 +152,7 @@
 
     .col-xl-6.m-auto.mt-5.col-lg-8
       figure
-        img(src="@/assets/curso/tema5/10.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema5/10.svg" data-aos="zoom-in-up" alt="Imagen que representa las 4P del Marketing mix, lo cual de acuerdo a sus términos en inglés significan: Place: plaza Promotion: promoción Price: precio Product: producto")
 
 
 

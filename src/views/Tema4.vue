@@ -10,7 +10,7 @@
     .row
       .col-lg-4.mb-4.mb-md-0.col-md-6(data-aos="fade-right")
         figure.col-8.m-auto.col-md-12
-          img(src="@/assets/curso/tema4/1.png")
+          img(src="@/assets/curso/tema4/1.png" alt="Imagen decorativa")
       .col-lg-8.col-md-6(data-aos="fade-left")
         p La publicidad digital se constituye de herramientas que sirven para promocionar y divulgar los bienes y servicios a través del Internet, se definen como una parte del #[em marketing] digital, y abarcan alrededor del 60% de las estrategias que se realizan por medios virtuales. La aplicación permite la promoción y difusión del producto o servicio por medio de plataformas digitales. Las plataformas están desarrolladas para trabajar usando el Internet, por medio de celulares, dispositivos digitales y/o programas en televisión digital, o radial.
     
@@ -27,7 +27,7 @@
             .row.m-0
               .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
                 figure.text-center
-                  img(src="@/assets/curso/tema4/2.svg" style="display:inline;max-width:80px;")
+                  img(src="@/assets/curso/tema4/2.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
               .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
                 h4.mb-0.text-white Piezas publicitarias tradicionales
               .col-lg-3.col-md-3.text-center(style="place-self:center;")
@@ -41,7 +41,7 @@
             .row.m-0
               .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
                 figure.text-center
-                  img(src="@/assets/curso/tema4/2.svg" style="display:inline;max-width:80px;")
+                  img(src="@/assets/curso/tema4/2.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
               .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
                 h4.mb-0.text-white Redacción de textos publicitarios
               .col-lg-3.col-md-3.text-center(style="place-self:center;")
@@ -50,7 +50,7 @@
                   i.fas.fa-link
       .col-lg-4(data-aos="fade-left" style="place-self:center;")
         figure.col-8.col-md-12.m-auto
-          img(src="@/assets/curso/tema4/3.png")
+          img(src="@/assets/curso/tema4/3.png" alt="Imagen decorativa")
     
     Separador
 
@@ -64,13 +64,13 @@
         .col-lg.mb-4.mb-lg-0
           .h-100.p-4.p-md-5(style="background-color:#CCEEFF;border-radius:20px;" data-aos="fade-right")
             figure.col-8.m-auto.col-md-12
-              img(src="@/assets/curso/tema4/4.png")
+              img(src="@/assets/curso/tema4/4.png" alt="Imagen decorativa")
             h5.mt-3 Medios pagos
             p.mt-3.mb-0 Son las plataformas que requieren de un pago su aparición en diversos medios sociales. Por ejemplo: #[em links], anuncios o publicidad en RRSS. 
         .col-lg.mb-4.mb-lg-0
           .h-100.p-4.p-md-5(style="background-color:#CCEEFF;border-radius:20px;" data-aos="fade-left")
             figure.col-8.m-auto.col-md-12
-              img(src="@/assets/curso/tema4/5.png")
+              img(src="@/assets/curso/tema4/5.png" alt="Imagen decorativa")
             h5.mt-3 Medios orgánicos
             p.mt-3.mb-0 Son las estrategias que logran ser eficientes de manera gratuita, entre ellas encontramos el #[em email marketing] o creación de contenidos de calidad.
     
@@ -86,12 +86,12 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img.p-4.d-flex.align-content-center.flex-wrap
               figure.col-lg-5.m-auto.col-md-6.col-lg-10.col-7.col-xl-12
-                img(src="@/assets/curso/tema4/6.svg")
-              h5.mt-4.text-center.w-100(style="color:#12263F;") Sem
+                img(src="@/assets/curso/tema4/6.svg" alt="Imagen decorativa")
+              h5.mt-4.text-center.w-100(style="color:#12263F;") SEM
             .tarjeta-flip__contenido.p-4.p-xl-5(style="background-color:#B2E5FF;")
               figure
-                img(src="@/assets/curso/tema4/7.svg" style="max-width:70px;")
-              h5.mt-4(style="color:#12263F;") Sem
+                img(src="@/assets/curso/tema4/7.svg" style="max-width:70px;" alt="Imagen decorativa")
+              h5.mt-4(style="color:#12263F;") SEM
               ul.lista-ul.mt-3.mb-0
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
@@ -101,7 +101,7 @@
                   | Inversión media
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
-                  | La Keyword marca el precio
+                  div La #[em Keyword] marca el precio
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
                   | Pago por CPC
@@ -114,12 +114,12 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img.p-4.d-flex.align-content-center.flex-wrap
               figure.col-lg-5.m-auto.col-md-6.col-lg-10.col-7.col-xl-12
-                img(src="@/assets/curso/tema4/8.svg")
-              h5.mt-4.text-center.w-100(style="color:#12263F;") Social ads
+                img(src="@/assets/curso/tema4/8.svg" alt="Imagen decorativa")
+              h5.mt-4.text-center.w-100(style="color:#12263F;") Social Ads
             .tarjeta-flip__contenido.p-4.p-xl-5(style="background-color:#CCE4AF;")
               figure
-                img(src="@/assets/curso/tema4/9.svg" style="max-width:70px;")
-              h5.mt-4(style="color:#12263F;") Social ads
+                img(src="@/assets/curso/tema4/9.svg" style="max-width:70px;" alt="Imagen decorativa")
+              h5.mt-4(style="color:#12263F;") Social Ads
               ul.lista-ul.mt-3.mb-0
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
@@ -141,16 +141,16 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img.p-4.d-flex.align-content-center.flex-wrap
               figure.col-lg-5.m-auto.col-md-6.col-lg-10.col-7.col-xl-12
-                img(src="@/assets/curso/tema4/10.svg")
-              h5.mt-4.text-center.w-100.mb-0.text-white(style="color:#12263F;") Rtb
+                img(src="@/assets/curso/tema4/10.svg" alt="Imagen decorativa")
+              h5.mt-4.text-center.w-100.mb-0.text-white(style="color:#12263F;") RTB
             .tarjeta-flip__contenido.p-4.p-xl-5(style="background-color:#9FB7E1;")
               figure
-                img(src="@/assets/curso/tema4/11.svg" style="max-width:70px;")
-              h5.mt-4(style="color:#12263F;") Rtb
+                img(src="@/assets/curso/tema4/11.svg" style="max-width:70px;" alt="Imagen decorativa")
+              h5.mt-4(style="color:#12263F;") RTB
               ul.lista-ul.mt-3.mb-0
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
-                  | Deseos / Branding
+                  div Deseos / #[em Branding]
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
                   | Inversión alta
@@ -159,7 +159,7 @@
                   | La audiencia marca el precio
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
-                  | Pago por cpm
+                  | Pago por CPM
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
                   | Compra por subasta
@@ -168,16 +168,16 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img.p-4.d-flex.align-content-center.flex-wrap
               figure.col-lg-5.m-auto.col-md-6.col-lg-10.col-7.col-xl-12
-                img(src="@/assets/curso/tema4/12.svg")
-              h5.mt-4.text-center.w-100(style="color:#12263F;") Display
+                img(src="@/assets/curso/tema4/12.svg" alt="Imagen decorativa")
+              h5.mt-4.text-center.w-100(style="color:#12263F;") #[em Display]
             .tarjeta-flip__contenido.p-4.p-xl-5(style="background-color:#ECDA9F;")
               figure
-                img(src="@/assets/curso/tema4/13.svg" style="max-width:70px;")
-              h5.mt-4(style="color:#12263F;") Display
+                img(src="@/assets/curso/tema4/13.svg" style="max-width:70px;" alt="Imagen decorativa")
+              h5.mt-4(style="color:#12263F;") #[em Display]
               ul.lista-ul.mt-3.mb-0
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
-                  | Enfocado a branding
+                  div Enfocado a #[em branding]
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
                   | Inversión alta

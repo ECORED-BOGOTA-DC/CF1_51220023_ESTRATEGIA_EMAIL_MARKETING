@@ -377,28 +377,28 @@ export default {
           nombre: 'Margarita Rosa Triana Sánchez',
           cargo: 'Experto temático',
           centro:
-            'Región Norte de Santander - Centro de la industria, la empresa y los servicios',
+            'Centro de la industria, la empresa y los servicios - Región Norte de Santander',
         },
         {
           nombre: 'Claudia Milena Hernández Naranjo',
-          cargo: 'Diseñadora Instruccional',
-          centro: 'Regional Distrito Capital – Centro de Gestión Industrial',
+          cargo: 'Diseño Instruccional',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Asesora Metodológica',
-          centro: 'Regional Distrito Capital – Centro Diseño y Metrología',
+          cargo: 'Asesoría Metodológica',
+          centro: 'Centro Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Responsable Equipo Desarrollo Curricular',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez',
-          cargo: 'Corrector de estilo',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          cargo: 'Corrección de estilo',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',

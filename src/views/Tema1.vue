@@ -11,7 +11,7 @@
 
     figure.mt-5(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/xkkkoyxgiis" title="Contexto de internet y los negocios electrónicos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
     Separador
 
@@ -80,7 +80,7 @@
         p.mt-4 Desde 1950 hasta hoy se ha incrementado constantemente el volumen de las redes de datos, así como los servicios que se ofrecen. 
       .col-lg-4.col-md-6(data-aos="fade-left" style="place-self:center;")
         figure.col-8.col-md-12.m-auto
-          img(src="@/assets/curso/tema1/1.png")
+          img(src="@/assets/curso/tema1/1.png" alt="Imagen decorativa")
     
     .col-xl-10.m-auto.mt-5
        .bloque-texto-a.color-primario.p-4.p-md-5(data-aos="flip-up")
@@ -111,7 +111,7 @@
     .row
       .col-lg-4.col-md-6.mb-4.mb-md-0(data-aos="fade-right")
         figure.col-8.m-auto.col-md-12
-          img(src="@/assets/curso/tema1/2.png")
+          img(src="@/assets/curso/tema1/2.png" alt="Imagen decorativa")
       .col-lg-8.col-md-6(data-aos="fade-left")
         p Una de las finalidades más importantes del Internet, es ser el canal por excelencia para realizar negocios electrónicos.
         p.mt-4 Los negocios electrónicos (#[em E-business]) están basados en la integración de las TIC con las actividades de los negocios. Es decir, son estrategias empresariales integradas con las nuevas tecnologías para desarrollar cualquier modelo de negocio a través del Internet, permitiendo mejorar su gestión y aumentar la productividad.
@@ -161,7 +161,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4.mb-0.text-white  Cámara de Comercio Electrónico de Colombia
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
@@ -180,7 +180,7 @@
       .row.cont_1_1.p-4
         .col-lg-4.col-md-6.mb-4.mb-md-0(style="place-self:center;" data-aos="fade-right")
           figure.col-8.col-md-12.m-auto
-            img(src="@/assets/curso/tema1/4.svg")
+            img(src="@/assets/curso/tema1/4.svg" alt="Imagen decorativa")
         .col-lg-8.col-md-6(data-aos="fade-left" style="place-self:center;")
           ul.lista-ul.mb-0
             li.mb-2.d-flex
@@ -218,7 +218,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/5.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/5.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4.mb-0.text-white Diferentes maneras de hacer comercios electrónicos
           .col-lg-3.col-md-3.text-center(style="place-self:center;")

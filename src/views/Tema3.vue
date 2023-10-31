@@ -10,7 +10,7 @@
     .row
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure.col-8.m-auto.col-md-7.col-lg-12
-          img(src="@/assets/curso/tema3/1.png")
+          img(src="@/assets/curso/tema3/1.png" alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p El Modelo de Negocio Digital es un concepto que abarca cualquiera de los modelos de empresa:
         .cajon.mt-3.color-acento-contenido.p-4(style="background-color:#EAFAD6;")
@@ -29,7 +29,7 @@
     .mt-5.cont_3_1
       .col-xl-4.col-lg-6.m-auto(data-aos="zoom-in-up")
         figure
-          img(src="@/assets/curso/tema3/2.svg")
+          img(src="@/assets/curso/tema3/2.svg" alt="Imagen decorativa")
     
     p.mt-5(data-aos="fade-right") La tecnología ayuda a que el negocio se aproxime al cliente, convirtiendo esta proximidad en un pilar básico y fundamental de los negocios del futuro.
 
@@ -47,7 +47,7 @@
     .row.mt-5
       .col-lg-4.col-md-6.mb-4.mb-md-0(data-aos="fade-right")
         figure.col-8.m-auto.col-md-12
-          img(src="@/assets/curso/tema3/3.png")
+          img(src="@/assets/curso/tema3/3.png" alt="Imagen decorativa")
       .col-lg-8.col-md-6(data-aos="fade-left")
         p La transformación digital de los negocios vendrá de la mano de un cambio cultural como elemento innovador, que sea capaz de integrar tanto metodologías (labor humana) como tecnologías (labor de las máquinas), de este modo se desprende el modelo VUCA, que es un entorno acrónimo de volatilidad, incertidumbre, complejo y ambiguo, que define el escenario de cambio constante que experimenta el mundo empresarial, obligando a directivos y empleados a tener la capacidad de anticiparse a los problemas y a aprovechar las oportunidades que pueden presentarse en situaciones de crisis.
         p.mt-4 El concepto VUCA aparece en la década de los 90, ideado por los soldados norteamericanos tras la Guerra Fría. Creando una similitud de algún modo entre el mundo empresarial con el mundo militar, identificando:
@@ -75,7 +75,7 @@
       .p-4.p-lg-5(style="background-color:#CBEDFF;")
         .col-xl-8.m-auto.col-lg-10(data-aos="zoom-in-up")
           figure
-            img(src="@/assets/curso/tema3/4.svg")
+            img(src="@/assets/curso/tema3/4.svg" alt="Figura que relaciona lo que significa el entorno, lo cual de acuerdo a sus siglas en inglés  significan: V: volatilida U: incertidumbr C: complejidad A: ambigüedad")
     
     Separador
 
@@ -90,7 +90,7 @@
         p.mt-4 Para el caso de las pymes, puede existir el estigma que migrar de los tradicionales métodos básicos de realizar labores comerciales a implementar nuevas tecnologías para las ventas de los productos puede ser algo costoso y difícil, y por esta razón muchas pequeñas empresas desaparecieron en pandemia, debido a que en esta temporada, se tuvo que realizar el uso de herramientas digitales para poder llegar a los clientes. 
       .col-lg-4.col-md-6(data-aos="fade-left" style="place-self:center;")
         figure.col-8.col-md-12.m-auto
-          img(src="@/assets/curso/tema3/5.png")
+          img(src="@/assets/curso/tema3/5.png" alt="Imagen decorativa")
     
     p.mt-5(data-aos="fade-right") Es por esta razón que la planeación temática mencionada anteriormente, es importante a la hora de implementar negocios digitales, porque una vez emprendido, van a verse infinidad de ventajas. 
 

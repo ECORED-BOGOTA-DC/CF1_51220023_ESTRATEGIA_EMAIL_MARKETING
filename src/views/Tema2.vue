@@ -10,7 +10,7 @@
     .row
       .col-lg-4.col-md-6.mb-4.mb-md-0(style="place-self:center;" data-aos="fade-right")
         figure.col-8.col-md-12.m-auto
-          img(src="@/assets/curso/tema2/1.png")
+          img(src="@/assets/curso/tema2/1.png" alt="Imagen decorativa")
       .col-lg-8.col-md-6(data-aos="fade-left" style="place-self:center;")
         p Para realizar negocios electrónicos exitosos, no es suficiente tener el producto y un canal de venta, es vital conocer sobre planeación y como ejecutarla en su negocio por pequeño que sea. 
         p.mt-4 La planeación en un comercio electrónico, sin importar si es servicio (intangible) o producto (tangible), debe contemplar:
@@ -62,7 +62,7 @@
         p.mt-4 Existen diversas plataformas o herramientas tecnológicas que ayudan a la implementación del trabajo colaborativo de planeación, una de ellas es Trello, conocida por crear equipos de trabajo, para gestionar las tareas, asignaciones y cumplimiento de actividades que hacen parte del plan de trabajo de una organización, controlando la eficiencia y productividad de cada usuario. Su interfaz gráfica interpreta un tablero digital, donde se puede visualizar las tareas asignadas, con tiempos, alcance, entre otros atributos por persona o equipo de trabajo; en esta plataforma, un director o líder de equipo puede observar en tiempo real el cumplimento de actividades y los motivos o problemas que se han presentado, con el fin de generar una estrategia que evite el retraso e impida el cumplimiento de la meta.
       .col-lg-4.col-md-6(data-aos="fade-left" style="place-self:center;")
         figure.col-8.col-md-12.m-auto
-          img(src="@/assets/curso/tema2/3.png")
+          img(src="@/assets/curso/tema2/3.png" alt="Imagen decorativa")
     
     p.mt-4(data-aos="fade-right") En el siguiente enlace, se puede revisar cómo crear un usuario para utilizar esta herramienta de gestión:
 
@@ -71,7 +71,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema2/4.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema2/4.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4.mb-0.text-white Crear usuario en Trello 
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
@@ -87,7 +87,7 @@
     .row
       .col-lg-4.col-md-6.mb-4.mb-md-0(style="place-self:center;" data-aos="fade-right")
         figure.col-8.col-md-12.m-auto
-          img(src="@/assets/curso/tema2/5.png")
+          img(src="@/assets/curso/tema2/5.png" alt="Imagen decorativa")
       .col-lg-8.col-md-6(data-aos="fade-left" style="place-self:center;")
         p Para implementar planeación en un negocio electrónico, se debe tener en cuenta la metodología y/o modelo a implementar, es decir, el paso a paso para que su proceso comercial sea rentable. Por ello es importante tener claridad en estos conceptos. 
         p.mt-4 Las metodologías de planificación se definen como las acciones o actividades que son necesarias para el cumplimiento de uno o varios objetivos, en un tiempo determinado. 
@@ -108,13 +108,13 @@
       .col-lg.mb-4.mb-lg-0
         .h-100.p-4.p-md-5(style="background-color:#B2E5FF;" data-aos="fade-right")
           figure.col-8.m-auto.col-md-12
-            img(src="@/assets/curso/tema2/6.png")
+            img(src="@/assets/curso/tema2/6.png" alt="Imagen decorativa")
           h5.mt-3 Identificación y alternativas:
           p.mt-3.mb-0 Se analiza la situación actual para proyectar la situación deseada y seleccionar las estrategias que permitirán llegar a la meta. En esta etapa se realiza el análisis de involucrados, análisis de problemas, análisis de objetivos y análisis de alternativas.
       .col-lg.mb-4.mb-lg-0
         .h-100.p-4.p-md-5(style="background-color:#B2CAF4;" data-aos="fade-left")
           figure.col-8.m-auto.col-md-12
-            img(src="@/assets/curso/tema2/6.png")
+            img(src="@/assets/curso/tema2/6.png" alt="Imagen decorativa")
           h5.mt-3 Planificación:
           p.mt-3.mb-0 En esta etapa se aborda la MML, estructurando actividades y recursos que se definen y visualizan en un intervalo de tiempo.
     
@@ -143,7 +143,7 @@
     .row.mt-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure.col-8.col-md-6.col-lg-12.m-auto
-          img(src="@/assets/curso/tema2/8.svg")
+          img(src="@/assets/curso/tema2/8.svg" alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         .tarjeta.tarjeta--azul.p-4.p-lg-5(style="background-color:#DFF7C2;")
           SlyderA(tipo="b")
@@ -152,25 +152,25 @@
                 p.fw-bold Conocimiento del problema, donde se debe identificar completamente la situación actual y proponer diferentes alternativas de solución.
               .col-md-6
                 figure.col-8.m-auto
-                  img(src='@/assets/curso/tema2/9.png')
+                  img(src='@/assets/curso/tema2/9.png' alt="Imagen decorativa")
             .row
               .col-md-6.mb-4.mb-md-0
                 p.fw-bold Identificar las causas y efectos del problema anteriormente mencionado. 
               .col-md-6
                 figure.col-8.m-auto
-                  img(src='@/assets/curso/tema2/10.png')
+                  img(src='@/assets/curso/tema2/10.png' alt="Imagen decorativa")
             .row
               .col-md-6.mb-4.mb-md-0
                 p.fw-bold Seleccionar los medios que se van a utilizar para solución del problema.
               .col-md-6
                 figure.col-8.m-auto
-                  img(src='@/assets/curso/tema2/11.png')
+                  img(src='@/assets/curso/tema2/11.png' alt="Imagen decorativa")
             .row
               .col-md-6.mb-4.mb-md-0
                 p.fw-bold Establecer alternativas de solución y seleccionar la mejor de todas (tiempo, alcance, medios utilizados, etc.).
               .col-md-6
                 figure.col-8.m-auto
-                  img(src='@/assets/curso/tema2/12.png')
+                  img(src='@/assets/curso/tema2/12.png' alt="Imagen decorativa")
     
     br
     .mt-5.p-3.mb-4(style="max-width:fit-content;background-color:#94E435;border-radius:0px 60px 60px 0px;position:relative;" data-aos="fade-right")
@@ -186,19 +186,19 @@
       .col-lg.mb-4.mb-lg-0(data-aos="zoom-in-up")
         .h-100.cont_hover_1.p-4(style="background-color:#B2E5FF;border-radius:15px;")
           figure
-            img(src="@/assets/curso/tema2/13.svg" style="max-width:100px;")
+            img(src="@/assets/curso/tema2/13.svg" style="max-width:100px;" alt="Imagen decorativa")
           p.mt-4.fw-bold Identificación
           p.mt-3 Reconocer a los involucrados con interés directo o indirecto.
       .col-lg.mb-4.mb-lg-0(data-aos="zoom-in-up")
         .h-100.cont_hover_1.p-4(style="background-color:#B2E5FF;border-radius:15px;")
           figure
-            img(src="@/assets/curso/tema2/14.svg" style="max-width:100px;")
+            img(src="@/assets/curso/tema2/14.svg" style="max-width:100px;" alt="Imagen decorativa")
           p.mt-4.fw-bold Investigación
           p.mt-3 Indagar los intereses, capacidad, roles, influencia, poder, entre otros.
       .col-lg.mb-4.mb-lg-0(data-aos="zoom-in-up")
         .h-100.cont_hover_1.p-4(style="background-color:#B2E5FF;border-radius:15px;")
           figure
-            img(src="@/assets/curso/tema2/15.svg" style="max-width:100px;")
+            img(src="@/assets/curso/tema2/15.svg" style="max-width:100px;" alt="Imagen decorativa")
           p.mt-4.fw-bold Interpretación
           p.mt-3 Comprender los resultados de la investigación y definir la forma en que van a formar parte del proyecto.
 
@@ -229,7 +229,7 @@
              p.mb-0 #[strong Buena evaluación versus un buen proyecto:] un proyecto debe evaluarse tanto al comienzo (evaluación ex ante), como al final (evaluación ex post), que permita determinar el impacto o el resultado, para lo cual debe estar bien identificado y bien formulado.
       .col-lg-4.col-md-6(data-aos="fade-left" style="place-self:center;")
         figure.col-8.m-auto.col-md-12
-          img(src="@/assets/curso/tema2/16.svg")
+          img(src="@/assets/curso/tema2/16.svg" alt="Imagen decorativa")
     
 
 
