@@ -18,7 +18,7 @@
     .titulo-segundo(data-aos="zoom-in-right")
       h2#t_1_1 1.1 Historia del Internet
     
-    p(data-aos="fade-right") A continuación se puede ver una breve historia del Internet desde su origen: 
+    p(data-aos="fade-right") A continuación, se puede ver una breve historia del Internet desde su origen: 
 
     .tarjeta.tarjeta--gris.p-4.mt-5(style="background-color:#EFFBE1;")
       LineaTiempoC.color-acento-contenido(text-small)
@@ -126,7 +126,6 @@
     .col-xl-10.m-auto.mt-5
       .tabla-a.color-acento-botones(data-aos="flip-up")
         table
-          caption.mt-0.fw-normal(style="background-color:#F6F6F6;") Nota, Sena (2022).
           thead(style="border:0;")
             tr(style="background-color:#0050DB;")
               th.text-white.p-3 Ventajas
@@ -174,7 +173,7 @@
     .titulo-segundo(data-aos="zoom-in-right")
       h2#t_1_4 1.4 Modelos de negocios electrónicos
     
-    p(data-aos="fade-right") Hoy en día los #[em E-business] crecen a un ritmo acelerado, estimando para el 2023 que sus ventas se incrementen hasta un 87%. Sin embargo, se deben conocer fundamentos y técnicas para que estos negocios prosperen, debido a que no solo por un impulso o sentimiento se  crean negocios electrónicos. Se deben tener en cuenta más aspectos como:
+    p(data-aos="fade-right") Hoy en día los #[em E-business] crecen a un ritmo acelerado, estimando para el 2023 que sus ventas se incrementen hasta un 87 %. Sin embargo, se deben conocer fundamentos y técnicas para que estos negocios prosperen, debido a que no solo por un impulso o sentimiento se  crean negocios electrónicos. Se deben tener en cuenta más aspectos como:
 
     .col-xl-10.m-auto.mt-5
       .row.cont_1_1.p-4

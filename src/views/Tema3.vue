@@ -38,7 +38,7 @@
     .titulo-segundo(data-aos="zoom-in-right")
       h2#t_3_1 3.1 Concepto de entorno digital
     
-    p(data-aos="fade-left") A continuación se contextualiza una breve explicación de lo que significa el entorno digital en un negocio electrónico:
+    p(data-aos="fade-left") A continuación, se contextualiza una breve explicación de lo que significa el entorno digital en un negocio electrónico:
 
     figure.mt-5
       .video

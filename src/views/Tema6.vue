@@ -36,7 +36,6 @@
     .col-xl-10.m-auto.mt-5
       .tabla-a.color-acento-botones(data-aos="zoom-in")
         table(style="width:100%")
-          caption.mt-0.fw-normal(style="background-color:#F6F6F6;") #[strong Nota,] Sena (2022).
           thead(style="border:0;")
             tr
               th(colspan="2" style="background-color:#94E435;") Cliente digital
