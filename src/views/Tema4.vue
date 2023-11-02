@@ -101,7 +101,7 @@
                   | Inversión media
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
-                  div La #[em(style="color:#12263F;") Keyword] marca el precio
+                  div(style="color:#12263F;") La #[em(style="color:#12263F;") Keyword] marca el precio
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
                   | Pago por CPC
@@ -150,7 +150,7 @@
               ul.lista-ul.mt-3.mb-0
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
-                  div Deseos / #[em(style="color:#12263F;") Branding]
+                  div(style="color:#12263F;") Deseos / #[em(style="color:#12263F;") Branding]
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
                   | Inversión alta
@@ -177,7 +177,7 @@
               ul.lista-ul.mt-3.mb-0
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
-                  div Enfocado a #[em(style="color:#12263F;") branding]
+                  div(style="color:#12263F;") Enfocado a #[em(style="color:#12263F;") branding]
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
                   | Inversión alta
