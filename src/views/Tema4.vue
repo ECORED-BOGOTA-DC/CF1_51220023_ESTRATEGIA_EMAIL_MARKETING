@@ -101,7 +101,7 @@
                   | Inversión media
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
-                  div La #[em Keyword] marca el precio
+                  div La #[em(style="color:#12263F;") Keyword] marca el precio
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
                   | Pago por CPC
@@ -150,7 +150,7 @@
               ul.lista-ul.mt-3.mb-0
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
-                  div Deseos / #[em Branding]
+                  div Deseos / #[em(style="color:#12263F;") Branding]
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
                   | Inversión alta
@@ -169,15 +169,15 @@
             .tarjeta-flip__img.p-4.d-flex.align-content-center.flex-wrap
               figure.col-lg-5.m-auto.col-md-6.col-lg-10.col-7.col-xl-12
                 img(src="@/assets/curso/tema4/12.svg" alt="Imagen decorativa")
-              h5.mt-4.text-center.w-100(style="color:#12263F;") #[em Display]
+              h5.mt-4.text-center.w-100(style="color:#12263F;") #[em(style="color:#12263F;") Display]
             .tarjeta-flip__contenido.p-4.p-xl-5(style="background-color:#ECDA9F;")
               figure
                 img(src="@/assets/curso/tema4/13.svg" style="max-width:70px;" alt="Imagen decorativa")
-              h5.mt-4(style="color:#12263F;") #[em Display]
+              h5.mt-4(style="color:#12263F;") #[em(style="color:#12263F;") Display]
               ul.lista-ul.mt-3.mb-0
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
-                  div Enfocado a #[em branding]
+                  div Enfocado a #[em(style="color:#12263F;") branding]
                 li.d-flex(style="color:#12263F;")
                   i.lista-ul__vineta
                   | Inversión alta
