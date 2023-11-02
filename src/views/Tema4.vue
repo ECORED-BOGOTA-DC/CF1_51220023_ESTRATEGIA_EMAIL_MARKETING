@@ -82,7 +82,7 @@
     
     .row.mt-5
       .col-lg-6.col-xl-3.mb-4.mb-xl-0
-        .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false" data-aos="zoom-in-up")
+        .tarjeta.tarjeta-flip.color-primario.tarjeta__flip1(@mouseover="indicadorTarjetaFlip = false" data-aos="zoom-in-up")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img.p-4.d-flex.align-content-center.flex-wrap
               figure.col-lg-5.m-auto.col-md-6.col-lg-10.col-7.col-xl-12
@@ -109,7 +109,7 @@
                   i.lista-ul__vineta
                   | Compra por subasta
       .col-lg-6.col-xl-3.mb-4.mb-xl-0
-        .tarjeta.tarjeta-flip.color-acento-contenido(@mouseover="indicadorTarjetaFlip = false" data-aos="zoom-in-up")
+        .tarjeta.tarjeta-flip.color-acento-contenido.tarjeta__flip1(@mouseover="indicadorTarjetaFlip = false" data-aos="zoom-in-up")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img.p-4.d-flex.align-content-center.flex-wrap
@@ -137,12 +137,12 @@
                   i.lista-ul__vineta
                   | Compra por subasta
       .col-lg-6.col-xl-3.mb-4.mb-xl-0
-        .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false" data-aos="zoom-in-up")
+        .tarjeta.tarjeta-flip.color-secundario.tarjeta__flip1(@mouseover="indicadorTarjetaFlip = false" data-aos="zoom-in-up")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img.p-4.d-flex.align-content-center.flex-wrap
               figure.col-lg-5.m-auto.col-md-6.col-lg-10.col-7.col-xl-12
                 img(src="@/assets/curso/tema4/10.svg" alt="Imagen decorativa")
-              h5.mt-4.text-center.w-100.mb-0.text-white(style="color:#12263F;") RTB
+              h5.mt-4.text-center.w-100.mb-0(style="color:#12263F;") RTB
             .tarjeta-flip__contenido.p-4.p-xl-5(style="background-color:#9FB7E1;")
               figure
                 img(src="@/assets/curso/tema4/11.svg" style="max-width:70px;" alt="Imagen decorativa")
@@ -164,7 +164,7 @@
                   i.lista-ul__vineta
                   | Compra por subasta
       .col-lg-6.col-xl-3.mb-4.mb-xl-0
-        .tarjeta.tarjeta-flip.color-acento-botones(@mouseover="indicadorTarjetaFlip = false" data-aos="zoom-in-up")
+        .tarjeta.tarjeta-flip.color-acento-botones.tarjeta__flip1(@mouseover="indicadorTarjetaFlip = false" data-aos="zoom-in-up")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img.p-4.d-flex.align-content-center.flex-wrap
               figure.col-lg-5.m-auto.col-md-6.col-lg-10.col-7.col-xl-12
@@ -219,5 +219,7 @@ export default {
   },
 }
 </script>
-
-<style lang="sass"></style>
+<style lang="sass">
+.tarjeta__flip1 *
+  color: #12263F !important
+</style>
