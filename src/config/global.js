@@ -339,12 +339,22 @@ export default {
     },
     {
       referencia:
+        'Pallares, A. (s.f.). Cómo debe usar las redes sociales una PyME.',
+      link: '',
+    },
+    {
+      referencia:
         'Rojo, M. (2019). <em>Blockchain: Fundamentos De La Cadena De Bloques</em>. Primera Edición. ed. De La U Ra-ma Editorial. Print. Área Finanzas.',
       link: '',
     },
     {
       referencia: 'Trello.com. (2022). <em>Crea tu cuenta</em>.',
       link: 'https://trello.com/signup',
+    },
+    {
+      referencia:
+        'Universidad de Guadalajara. (s.f.). <em>Resumen sobre Internet</em>.',
+      link: '',
     },
     {
       referencia:
@@ -366,7 +376,7 @@ export default {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
           centro:
-            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -377,34 +387,34 @@ export default {
           nombre: 'Margarita Rosa Triana Sánchez',
           cargo: 'Experto temático',
           centro:
-            'Región Norte de Santander - Centro de la industria, la empresa y los servicios',
+            'Centro de la industria, la empresa y los servicios - Región Norte de Santander',
         },
         {
           nombre: 'Claudia Milena Hernández Naranjo',
           cargo: 'Diseño Instruccional',
-          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Asesoría Metodológica',
-          centro: 'Regional Distrito Capital - Centro Diseño y Metrología',
+          centro: 'Centro Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Responsable Equipo Desarrollo Curricular',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez',
           cargo: 'Corrección de estilo',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Metodología para la formación virtual',
           centro:
-            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -415,31 +425,31 @@ export default {
           nombre: 'Yuly Andrea Rey Quiñonez',
           cargo: 'Diseño web',
           centro:
-            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Luis Jesús Pérez Madariaga',
           cargo: 'Desarrollador Fullstack',
           centro:
-            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Ernesto Navarro Jaimes',
           cargo: 'Animación y Producción audiovisual',
           centro:
-            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Lady Adriana Ariza Luque',
           cargo: 'Animación y Producción audiovisual',
           centro:
-            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Laura Gisselle Murcia Pardo',
           cargo: 'Animación y Producción audiovisual',
           centro:
-            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -450,19 +460,19 @@ export default {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Leyson Fabián Castaño Pérez',
           cargo: 'Validación de contenidos educativos',
           centro:
-            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',
           cargo: 'Validación de contenidos educativos y vinculación al LMS',
           centro:
-            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
