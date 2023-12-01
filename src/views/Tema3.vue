@@ -29,7 +29,7 @@
     .mt-5.cont_3_1
       .col-xl-4.col-lg-6.m-auto(data-aos="zoom-in-up")
         figure
-          img(src="@/assets/curso/tema3/2.svg" alt="Imagen decorativa")
+          img(src="@/assets/curso/tema3/2.svg" alt="Imagen que relaciona las necesidades cambiantes de un ecosistema, las cuales son: volátil, incierto, complejo y ambiguo.")
     
     p.mt-5(data-aos="fade-right") La tecnología ayuda a que el negocio se aproxime al cliente, convirtiendo esta proximidad en un pilar básico y fundamental de los negocios del futuro.
 

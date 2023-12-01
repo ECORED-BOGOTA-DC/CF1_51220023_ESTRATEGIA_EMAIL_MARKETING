@@ -135,7 +135,7 @@
 
     .col-xl-6.m-auto.mt-5.col-lg-8
       figure
-        img(src="@/assets/curso/tema6/4.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
+        img(src="@/assets/curso/tema6/4.svg" data-aos="zoom-in-up" alt="Imagen que menciona los diferentes arquetipos existentes, los cuales son: - Ruler - Creator - Caregiver - Innocent - Explorer -Sage - Jester - Lover - Everyman - Hero - Rebel - Magician")
 
 
 

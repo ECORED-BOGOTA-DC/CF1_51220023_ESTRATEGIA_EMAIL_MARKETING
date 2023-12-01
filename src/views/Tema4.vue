@@ -74,12 +74,8 @@
             h5.mt-3 Medios orgánicos
             p.mt-3.mb-0 Son las estrategias que logran ser eficientes de manera gratuita, entre ellas encontramos el #[em email marketing] o creación de contenidos de calidad.
     
-    p.mt-5(data-aos="fade-right") En la siguiente figura 2 se aprecian otros tipos de publicidad:
+    p.mt-5(data-aos="fade-right") A continuación, se exponen otros tipos de publicidad:
 
-    .titulo-sexto.color-acento-contenido.mt-5(data-aos="fade-left")
-      h5 Figura 2.
-      span Tipos de publicidad digital
-    
     .row.mt-5
       .col-lg-6.col-xl-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario.tarjeta__flip1(@mouseover="indicadorTarjetaFlip = false" data-aos="zoom-in-up")
